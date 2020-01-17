@@ -8,3 +8,4 @@ var content2 = fs.readFile(__dirname + "/readme.txt",(err,data)=> {
     console.log(data);
 });
 console.log(content2);
+console.log('Hello');
